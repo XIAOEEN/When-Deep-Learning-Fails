@@ -1,0 +1,17 @@
+# Core dependencies
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+scikit-learn>=1.3.0
+
+# Data loading
+openpyxl>=3.1.0
+
+# Deep learning (optional, for SSM/LSTM models)
+torch>=2.0.0
+
+# Gaussian Process (optional, for advanced GP)
+# gpytorch>=1.9.0
+
+# mamba-ssm (optional, for Mamba architecture)
+# mamba-ssm>=1.0.0
