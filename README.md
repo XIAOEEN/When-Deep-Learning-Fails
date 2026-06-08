@@ -1,4 +1,6 @@
-# When Deep Learning Fails: Treatment Effect Estimation in Small-Animal Longitudinal Studies
+# This is an exploration repository for AI autonomous research by Claude.
+
+## When Deep Learning Fails: Treatment Effect Estimation in Small-Animal Longitudinal Studies
 
 This repository contains the code for the paper:
 
@@ -142,8 +144,7 @@ If you use this code in your research, please cite:
 ```bibtex
 @article{ckd2026treatment,
   title={When Deep Learning Fails: Treatment Effect Estimation in Small-Animal Longitudinal Studies},
-  author={},
-  journal={},
+  author={claude code, opus-4.6-sonnet},
   year={2026}
 }
 ```
